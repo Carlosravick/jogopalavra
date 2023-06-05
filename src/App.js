@@ -127,6 +127,7 @@ function App() {
 
   return (
     <div className="App">
+      <p>Learn React</p>
       {gameStage === "start" && <StartScreen startGame={startGame}/>}
       {gameStage === "game" && <Game verifyletter={verifyletter} pickedWord={pickedWord} pickedCategory={pickedCategory} letters={letters} guessedLetters={guessedLetters} wrongLetters={wrongLetters} guesses={guesses} score={score}/>}
       {gameStage === "end" && <Gameover retry={retry} score={score}/>}
