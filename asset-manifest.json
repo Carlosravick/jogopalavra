@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Carlosravick/jogo_de_palavra/static/css/main.76c4acf3.css",
+    "main.js": "/Carlosravick/jogo_de_palavra/static/js/main.f831174e.js",
+    "static/js/787.fc60cbf0.chunk.js": "/Carlosravick/jogo_de_palavra/static/js/787.fc60cbf0.chunk.js",
+    "index.html": "/Carlosravick/jogo_de_palavra/index.html",
+    "main.76c4acf3.css.map": "/Carlosravick/jogo_de_palavra/static/css/main.76c4acf3.css.map",
+    "main.f831174e.js.map": "/Carlosravick/jogo_de_palavra/static/js/main.f831174e.js.map",
+    "787.fc60cbf0.chunk.js.map": "/Carlosravick/jogo_de_palavra/static/js/787.fc60cbf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c4acf3.css",
+    "static/js/main.f831174e.js"
+  ]
+}
